@@ -1,0 +1,15 @@
+{
+  "name": "longest-repeated-subset",
+  "version": "1.0.0",
+  "description": "Find the longest repeated subset of array elements in given array",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Matias Fessia",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
